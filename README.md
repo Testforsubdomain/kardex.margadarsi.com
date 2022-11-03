@@ -1,0 +1,2 @@
+# kardex.margadarsi.com
+subdomain
